@@ -4,10 +4,11 @@ date: 2017-11-24 15:02:18
 categories: web
 tags: git
 ---
-
 ### mkdir learngit   // 创建一个空目录
 ### cd learngit
 ### pwd   // 用于显示当前目录
+<!--more-->
+
 ### git init    // 命令把这个目录变成Git可以管理的仓库
 ### git add file // 把你的修改放到暂存区
 ### git status // 查看当前状态，是否有遗漏

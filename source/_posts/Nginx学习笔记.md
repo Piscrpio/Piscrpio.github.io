@@ -6,7 +6,7 @@ tags: [nginx,前端跨域]
 ---
 ### 前言
 nginx：反向代理、负载均衡、指定文件（404.html）
-
+<!--more-->
 ### 一、安装
 [官网下载](http://nginx.org/en/download.html).建议下载最新稳定版本【Stable version】，下载完成后直接解压到某个文件夹（自己能找到）。
 

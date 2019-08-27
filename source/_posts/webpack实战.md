@@ -12,6 +12,7 @@ npm install jquery --save
 npm install webpack --save-dev 
 
 
+<!--more-->
 
 --save和--save-dev的区别
 -save-dev是指将包信息添加到devDependencies，表示你开发时依赖的包裹。

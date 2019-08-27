@@ -10,7 +10,7 @@ tags: [css,伪元素]
 #### 一、清除浮动
 **元素增加zoom:1 兼容IE**
 >Zoom属性是IE浏览器的专有属性， 它可以设置或检索对象的缩放比例
-
+<!--more-->
 伪元素增加 content display clear 属性 并且设置clear clear:both
 给需要清楚浮动的父元素增加类就好了
 

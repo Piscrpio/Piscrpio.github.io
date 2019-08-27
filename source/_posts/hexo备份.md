@@ -4,11 +4,13 @@ date: 2017-11-24 16:14:48
 categories: web
 tags: hexo
 ---
-
 git init
 echo "node_modules/" > .gitignore
 echo "public/" >> .gitignore
 echo ".deploy_git" >> .gitignore
+
+<!--more-->
+
 git checkout -b hexo      // git checkout命令加上-b参数表示创建并切换，相当于以下两条命令：
 git add .
 git commit -m "initial commit"
@@ -33,3 +35,5 @@ cnpm install
 
 1. 依次执行git add .、git commit -m "..."、git push origin hexo指令将改动推送到GitHub（此时当前分支应为hexo）；
 2. 然后才执行hexo g -d发布网站到master分支上。
+hexo server   
+启动服务器。默认情况下，访问网址为： http://localhost:4000/。

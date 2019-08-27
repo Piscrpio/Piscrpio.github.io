@@ -4,8 +4,10 @@ date: 2018-05-21 11:32:05
 categories: web
 tags: js数组
 ---
+
 ### 1、for循环
 最先接触到的js遍历方法
+<!--more-->
 ```
 //假设存在一个数组arr
 let arr = [1,2,3,4,5];
