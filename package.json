@@ -6,7 +6,8 @@
     "version": "3.3.8"
   },
   "scripts": {
-    "server": "hexo server"
+    "server": "hexo server",
+    "build": "hexo g -d"
   },
   "dependencies": {
     "hexo": "^3.2.0",
