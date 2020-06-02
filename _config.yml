@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: piscrpio
+title: hoho
 subtitle: 最美的年纪，不要辜负最好的自己
 description: 折腾笔记
-author: piscrpio
-language: zh-Hans
+author: hoho
+language: zh-CN
 timezone:
 
 # URL
@@ -72,13 +72,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://piscrpio:hyz489436@github.com/piscrpio/piscrpio.github.io.git
+  repo: https://piscrpio:hyz489436@github.com:hohoz/hohoz.github.io.git
   branch: master
 
 jsonContent:
