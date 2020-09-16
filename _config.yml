@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hoho
+title: houhoz
 subtitle: 最美的年纪，不要辜负最好的自己
 description: 折腾笔记
 author: hoho
@@ -78,7 +78,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/hohoz/hohoz.github.io.git
+  repo: https://github.com/houhoz/houhoz.github.io.git
   branch: master
 
 jsonContent:
